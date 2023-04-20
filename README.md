@@ -3,6 +3,10 @@ A VS Code Workspace for developing Zephyr Projects.
 
 It opens a Docker container from the official [Zephyr Docker images](https://github.com/zephyrproject-rtos/docker-image) which has everything you need to get started developing a Zephyr project.
 
+Use this template to quickly set up a dev enviroment on any machine with Docker and VSCode :)
+
+https://user-images.githubusercontent.com/2559382/233291862-37514c50-0c57-4d46-82f3-a3f49b57402a.mp4
+
 ## How to use
 
 You should already have Docker and VSCode with the remote containers plugin installed on your system.
