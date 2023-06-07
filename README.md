@@ -40,3 +40,9 @@ If you don't see the pop-up, click on the little green square in the bottom left
 In the dialog, select "Remote Containers: Reopen in container"
 
 VSCode will build the dockerfile inside of `.devcontainer` for you.  If you open a terminal inside VSCode (Terminal->New Terminal), you should see that your username has been changed to `user`, and the bottom left green corner should say "Dev Container"
+
+### Author
+
+[Keenan Johnson](https://www.keenanjohnson.com/) is an electrical and software engineer with experience building IoT fleets of all shapes and sizes.
+
+[Reach out](https://www.keenanjohnson.com/consulting) if you need help or are interested in hiring me as a consultant for your project.
